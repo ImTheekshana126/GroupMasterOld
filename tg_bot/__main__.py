@@ -26,8 +26,7 @@ Im a group manager bot maintained by  [Naviya](tg://user?id={}).🇱🇰
 
 For more commands click /help...
 
-Updates Channel :@new_ehi 🇱🇰
-Support Group : @leosupportx 🇱🇰 """
+"""
 HELP_STRINGS = """
 
 Hello! My name is *{}* 🙂
